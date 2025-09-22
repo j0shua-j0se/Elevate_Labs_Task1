@@ -78,3 +78,11 @@ This repository demonstrates a professional preprocessing workflow on the Titani
 ### License and acknowledgments
 - This work is for educational purposes as part of a preprocessing task.  
 - The dataset originates from the Titanic dataset hosted on KaggleHub via the specified local path.
+
+### Main Output Preview
+<img width="980" height="479" alt="BoxPlot_B4_Capping_Fare" src="https://github.com/user-attachments/assets/9747efeb-5525-4445-8a64-0a8ee7921cf1" />
+<img width="978" height="479" alt="BoxPlot_B4_Capping_AGE" src="https://github.com/user-attachments/assets/d57d31e4-2291-4c11-9e03-9f0bf7078c16" />
+<img width="995" height="493" alt="BoxPlot_After_Capping_Fare" src="https://github.com/user-attachments/assets/9bbbe8aa-86f6-4d87-a917-aba0ef20eb2a" />
+<img width="989" height="488" alt="BoxPlot_After_Capping_Age" src="https://github.com/user-attachments/assets/bf7699bf-7a5f-44fe-9fe7-08114cc60d62" />
+
+
