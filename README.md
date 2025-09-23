@@ -1,5 +1,4 @@
-# Elevate_Labs_Task1
-Here is a ready-to-commit README.md tailored to the internship Task 1 and the Titanic dataset.
+# Elevate_Labs
 
 # Titanic: Data Cleaning & Preprocessing (Task 1)
 
